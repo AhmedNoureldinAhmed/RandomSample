@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571245160 source:c:\users\default.desktop-8s0ankt\desktop\new folder\sample\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+
